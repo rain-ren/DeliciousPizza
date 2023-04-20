@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MVC Delicious Pizza:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVC_Delicious_Pizza_jar2</output-path>
+    <root id="archive" name="MVC Delicious Pizza.jar">
+      <element id="module-output" name="MVC Delicious Pizza" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
